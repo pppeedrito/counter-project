@@ -34,3 +34,12 @@ body {
 .nextBtn:hover {
   background: var(--lightBlue);
 }
+.red{
+  color: #F53309;
+}
+.green{
+  color: #1CF509;
+}
+.neutro{
+ color:#020302;
+}
